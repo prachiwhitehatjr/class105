@@ -1,0 +1,20 @@
+body{
+    background:pink;
+    color: white;
+}
+.heading{
+    width:80%;
+    font-size:22px;
+    
+}
+.name_of_objects{
+    color: darkslategray;
+}
+#camera{
+    border:2px dashed cornflowerblue;
+    width:350px;
+    height:300px;
+}
+.result_object_name,.result_object_accuracy{
+    color: blueviolet;
+}
